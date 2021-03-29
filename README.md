@@ -2,4 +2,4 @@
 
 
 - UFT flight test : UFT software
-- Lakme Website Test : Selenium + eclipse + JAVA
+- Lakme Website Test(SeleniumTesting) : Selenium + eclipse + JAVA
